@@ -1,0 +1,6 @@
+1737015731674	Rename field 's'
+1737015756415	Rename method 'calcd'
+1737015775089	Rename local variable 'x'
+1737015796974	Extract constant 'ANYO_ACTUAL'
+1737015844723	Extract local variable 'siglo'
+1737016159335	Extract Class...

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;array&apos; in &apos;tema6Ejercicio1.Tema4Ejercicio1d.main(...)&apos; to &apos;pos&apos;&#x0A;- Original project: &apos;tema6Ejercicio1&apos;&#x0A;- Original element: &apos;tema6Ejercicio1.Tema4Ejercicio1d.main(String[]).array&apos;&#x0A;- Renamed element: &apos;array&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;array&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;tema6Ejercicio1{Tema4Ejercicio1d.java[Tema4Ejercicio1d~main~\[QString;@array!241!251!245!249!I!0!false" name="pos" references="true" stamp="1737103941103" version="1.0"/>
+</session>

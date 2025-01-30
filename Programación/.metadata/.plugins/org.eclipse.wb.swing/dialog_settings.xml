@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.models.combo.ComboBoxModelDialog">
+		<item key="x" value="1990"/>
+		<item key="y" value="343"/>
+		<item key="width" value="545"/>
+		<item key="height" value="386"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.font.FontDialog">
+		<item key="x" value="2672"/>
+		<item key="y" value="277"/>
+		<item key="width" value="492"/>
+		<item key="height" value="545"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.accelerator.KeyStrokePropertyEditor$KeyStrokeDialog">
+		<item key="x" value="2719"/>
+		<item key="y" value="286"/>
+		<item key="width" value="398"/>
+		<item key="height" value="526"/>
+	</section>
+</section>

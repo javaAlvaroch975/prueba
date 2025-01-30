@@ -1,0 +1,9 @@
+1737014633511	Rename local variable 'x'
+1737014679957	Rename field 'compra'
+1737014722587	Rename method 'calcular'
+1737014740984	Rename type 'Venta'
+1737014798746	Extract constant 'IVA'
+1737014888760	Extract local variable 'precioProducto'
+1737014947929	Extract method 'imprimirDatosProducto'
+1737015033677	Change method 'realizar_venta'
+1737015320698	Extract Class...
